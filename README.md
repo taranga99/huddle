@@ -1,1 +1,1 @@
-This is an project where i have desinged a website using styled components. It is made responsive using media queries.
+This is an website desinged using styled components. It is made responsive using media queries.
